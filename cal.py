@@ -3,8 +3,8 @@
 print("🚀 Jenkins CI/CD Test Started")
 
 # Sample arithmetic operations
-a = 20
-b = 10
+a = 50
+b = 5
 
 print("Addition:", a + b)
 print("Subtraction:", a - b)
